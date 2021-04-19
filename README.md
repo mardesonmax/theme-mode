@@ -28,7 +28,7 @@
 
 Project construido para facilitar a troca de cores utilizando <a href="https://styled-components.com/">styled-component</a> e salvando no localStorage.
 
-## 📜️ utilizar
+## 📄 utilizar
 
 - Clone o repositório.
 - Execute `yarn` para instalar as dependencias.
